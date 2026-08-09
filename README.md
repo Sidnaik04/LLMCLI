@@ -266,7 +266,7 @@ These are deliberate non-goals rather than missing features.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Sidnaik04/LLMCLI/LICENSE.
+This project is licensed under the [MIT License](https://github.com/Sidnaik04/LLMCLI/blob/main/LICENSE).
 
 ## Disclaimer
 
